@@ -1,0 +1,24 @@
+﻿Example usage for Folder App Maker
+
+Usage:
+  folderappmaker  [project] [--rutabase=<ruta>] <name> [--full] [--result | --show]
+  folderappmaker  (-h | --help)
+  folderappmaker  --version
+
+Options:
+  --full        Create full structure.
+  -h --help     Show this screen.
+  --result  Show result on screen.
+  --rutabase=<ruta>  Path base for the structure [detault: current path].
+  --show  Show structure on screen without create it.
+  --version     Show version.
+
+Ejemplos
+
+    #1
+	folderappmaker NombreApp
+		Crea carpetas basicas para aplicacion de NombreApp en ruta Base.
+
+     #2
+	 folderappmaker project NombreProyecto
+		Crea carpetas basicas para el proyecto de NombreProyecto en ruta Base.
