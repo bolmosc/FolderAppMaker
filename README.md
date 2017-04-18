@@ -75,3 +75,8 @@ Licencia
 	--------------------------------------------------------------------------------
 
 	For more details about license see the file LICENCE.txt.
+	
+	--------------------------------------------------------------------------------
+	
+	Folder App Maker utiliza docopt/docopt.net
+	docopt/docopt.net is licensed under the MIT License. For more details about license see the file LICENSE-MIT.txt
